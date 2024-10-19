@@ -1,9 +1,6 @@
 import React from 'react';
  
- 
- 
 const Skills = () => {
- 
   return (
  
     <div style={cardStyle}>
@@ -21,11 +18,9 @@ const Skills = () => {
 };
  
  
- 
 const cardStyle = {
   backgroundColor: '#f9f9f9',
-  padding: '2rem',
-  
+  padding: '2rem', 
   borderRadius: '10px',
   boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)',
  
